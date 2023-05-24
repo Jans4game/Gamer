@@ -1,12 +1,5 @@
-.flex {
+#rowone {
     display: flex;
-
-}
-
-.btn1 {
-    
-}
-
-.display{
-    padding-left: 10px;
+    flex-direction: row;
+    background-color: aqua;
 }
